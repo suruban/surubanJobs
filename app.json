@@ -1,0 +1,36 @@
+{
+  "expo": {
+    "scheme": "acme",
+    "web": {
+      "bundler": "metro"
+    },
+    "plugins": [
+      "expo-router"
+    ],
+    "splash": {
+      "image": "./assets/images/splash.gif",
+      "backgroundColor": "#fff0b5",
+      "resizeMode": "cover"
+    },
+    "name": "surubanJobs",
+    "slug": "surubanJobs",
+    "extra": {
+      "router": {
+        "origin": false
+      },
+      "eas": {
+        "projectId": "00c3e48c-e056-4f2d-a4de-53ff964638bc"
+      }
+    },
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/00c3e48c-e056-4f2d-a4de-53ff964638bc"
+    },
+    "android": {
+      "package": "com.suruban.surubanJobs"
+    },
+    "ios": {}
+  }
+}

@@ -1,0 +1,10 @@
+{
+    "build": {
+      "development": {
+        "workflow": "managed"
+      },
+      "production": {
+        "workflow": "managed"
+      }
+    }
+  }
