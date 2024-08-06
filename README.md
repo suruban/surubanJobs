@@ -1,13 +1,10 @@
-# Expo Router Example
+# Expo start guide
 
-Use [`expo-router`](https://docs.expo.dev/router/introduction/) to build native navigation using files in the `app/` directory.
-
+Use npx expo start --tunnel to development build
 ## 🚀 How to use
 
 ```sh
-npx create-expo-app -e with-router
+  ease update for commits
 ```
 
-## 📝 Notes
 
-- [Expo Router: Docs](https://docs.expo.dev/router/introduction/)
